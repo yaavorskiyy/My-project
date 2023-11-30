@@ -656,3 +656,49 @@ a{
   .downfooterlinks>li{
     margin-right: 24px;
   }
+  .emi{
+    color: var(--Dark-blue, #282938);
+    /* Label 01 */
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px; /* 177.778% */
+    margin-left: -315px;
+    margin-top: -30px;
+    
+  }
+  .call{
+    color: var(--Dark-blue, #282938);
+    /* Label 01 */
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px; /* 177.778% */
+    margin-left: 325px;
+    margin-top: -30px;
+  }
+  .email1{
+    color: var(--Dark-blue, #282938);
+    /* Paragraph */
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 175% */
+    opacity: 0.8;
+    margin-left: -250px;
+    margin-top: 23px;
+  }
+  .numb{
+    color: var(--Dark-blue, #282938);
+    /* Paragraph */
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 175% */
+    margin-left: 240px;
+    margin-top: -26px;
+  }
